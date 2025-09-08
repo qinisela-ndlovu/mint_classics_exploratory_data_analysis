@@ -1,0 +1,31 @@
+warehouseCode,warehouseName,warehousePctCap,productCode,productName,Total_Quantity,Total_Revenue
+b,East,67,S18_4933,"1957 Ford Thunderbird",767,50101.57
+b,East,67,S24_1046,"1970 Chevy Chevelle SS 454",803,53236.67
+c,West,50,S24_3969,"1936 Mercedes Benz 500k Roadster",824,29763.39
+c,West,50,S18_2248,"1911 Ford Town Car",832,45306.77
+b,East,67,S18_2870,"1999 Indy 500 Monte Carlo SS",855,100770.12
+c,West,50,S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",866,71526.22
+b,East,67,S24_4048,"1992 Porsche Cayenne Turbo Silver",867,92973.40
+b,East,67,S24_3191,"1969 Chevrolet Camaro Z28",870,67357.30
+b,East,67,S24_2887,"1952 Citroen-15CV",873,94248.67
+c,West,50,S18_2795,"1928 Mercedes-Benz SSK",880,132275.98
+c,West,50,S18_3140,"1903 Ford Model A",883,111528.82
+c,West,50,S24_3420,"1937 Horch 930V Limousine",884,52803.75
+b,East,67,S24_3432,"2002 Chevy Corvette",894,87404.81
+a,North,72,S700_1691,"American Airlines: B767-300",894,73871.22
+d,South,75,S700_3962,"The Queen Mary",896,78919.06
+d,South,75,S700_2047,"HMS Bounty",897,73298.42
+a,North,72,S32_4485,"1974 Ducati 350 Mk3 Desmo",898,84039.24
+d,South,75,S700_1938,"The Mayflower",898,69531.61
+b,East,67,S12_3990,"1970 Plymouth Hemi Cuda",900,63489.95
+a,North,72,S32_2206,"1982 Ducati 996 R",906,33268.76
+c,West,50,S18_3136,"18th Century Vintage Horse Carriage",907,85328.57
+d,South,75,S32_1268,"1980’s GM Manhattan Express",911,78067.82
+b,East,67,S24_2972,"1982 Lamborghini Diablo",912,30972.87
+b,East,67,S18_1589,"1965 Aston Martin DB5",914,101778.13
+b,East,67,S18_3482,"1976 Ford Gran Torino",915,121890.60
+b,East,67,S24_1628,"1966 Shelby Cobra 427 S/C",915,42015.54
+b,East,67,S18_1984,"1995 Honda Civic",917,119050.95
+a,North,72,S18_2581,"P-51-D Mustang",917,68741.91
+d,South,75,S18_3259,"Collectable Wooden Train",918,82617.12
+c,West,50,S18_1749,"1917 Grand Touring Sedan",918,140535.60
