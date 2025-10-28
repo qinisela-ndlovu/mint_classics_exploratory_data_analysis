@@ -1,4 +1,4 @@
-# Mint Classics Exploratory Aata Analysis
+# Mint Classics Exploratory Data Analysis
  In this project I'm a data analyst for fictional Mint Company - my role is to help analyse data in a relational database with the goal of supporting inventory-related business decisions that lead to the closure of a storage facility.
  # Project Scenario
  Mint Classics Company, a retailer of classic model cars and other vehicles, is looking at closing one of their storage facilities. 
