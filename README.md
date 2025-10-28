@@ -45,7 +45,16 @@ As a data analyst, you have been asked to use MySQL Workbench to familiarize you
   - Moderate product count (24)
   - Opportunity to relocate products to A or D with better performance
  
-    # How to Run the Project
+  # One of the queries in this project (Distinct products by warehouse):
+  ```sql
+    
+
+
+
+
+
+ 
+ # How to Run the Project
 
 1. Import Database
    - Use the `mintclassicsDB.sql` script to import the Classic Model Cars database into MySQL Workbench.
