@@ -47,13 +47,15 @@ As a data analyst, you have been asked to use MySQL Workbench to familiarize you
  
   # One of the queries in this project (Distinct products by warehouse):
   ```sql
-    
-
-
-
-
-
- 
+  SELECT  
+    i.warehouseCode,
+    w.warehouseName,
+    COUNT(DISTINCT i.productCode) AS Num_Products,
+    SUM(i.quantityInStock) AS Total_Quantity
+  FROM products i
+  JOIN warehouses w ON i.warehouseCode = w.warehouseCode
+  GROUP BY i.warehouseCode, w.warehouseName;
+    ```
  # How to Run the Project
 
 1. Import Database
